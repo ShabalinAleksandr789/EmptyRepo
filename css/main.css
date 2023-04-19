@@ -1,0 +1,9 @@
+#loading {
+    display: none;
+}
+
+.searchHistory {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
