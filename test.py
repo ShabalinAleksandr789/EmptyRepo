@@ -1,1 +1,1 @@
-print(World!!!"Hello,")
+print("Hello")
